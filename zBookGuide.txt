@@ -1,0 +1,4 @@
+- Install Module {npm install}
+- Start vue.js {npm run serve}
+- Toolbar Menu "TABLE" = API users
+- Toolbar Menu "CARD" = API posts
